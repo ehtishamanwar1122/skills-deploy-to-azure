@@ -94,8 +94,8 @@ We won't be going into detail on the steps of this workflow, but it would be a g
       ###############################################
       ### Replace <username> with GitHub username ###
       ###############################################
-      DOCKER_IMAGE_NAME: <username>-azure-ttt
-      AZURE_WEBAPP_NAME: <username>-ttt-app
+      DOCKER_IMAGE_NAME: ehtishamanwar1122-azure-ttt
+      AZURE_WEBAPP_NAME: ehtishamanwar1122-ttt-app
       ###############################################
 
     jobs:
